@@ -1,0 +1,619 @@
+Site;Transect;Plant_species;Date;Management_type;Location;Insect_order;Insect_species;Insect_species_dec;Collected;Num_Individuals;ID;Cover
+2;1;Campanula latifolia;04.07.2018;alvar pasture;Laelatu field station;Diptera;Muscidae sp. 14;Muscidae sp. 14;yes;1;1;0.5
+2;1;Campanula rotundifolia;04.07.2018;alvar pasture;Laelatu field station;Hymenoptera;Melitta haemorrhoidalis;M. haemorrhoidalis;yes;1;23;0.5
+2;1;Campanula rotundifolia;04.07.2018;alvar pasture;Laelatu field station;Hymenoptera;Melitta haemorrhoidalis;M. haemorrhoidalis;yes;1;22;0.5
+2;1;Galium album;04.07.2018;alvar pasture;Laelatu field station;Lepidoptera;Coenonympha glycerion;C. glycerion;no;1;;2
+2;1;Galium verum;04.07.2018;alvar pasture;Laelatu field station;Lepidoptera;Thymelicus sylvestris;T. sylvestris;no;1;;2
+2;2;Galium verum;04.07.2018;alvar pasture;Laelatu field station;Diptera;Muscidae sp. 18;Muscidae sp. 18;yes;1;3;3
+2;2;Knautia arvensis;04.07.2018;alvar pasture;Laelatu field station;Hymenoptera;Bombus ruderarius;B. ruderarius;no;1;;0.5
+2;2;Medicago lupulina;04.07.2018;alvar pasture;Laelatu field station;Lepidoptera;Sphaerophoria scripta;S. scripta;no;1;;0.5
+2;3;Galium verum;04.07.2018;alvar pasture;Laelatu field station;Hymenoptera;Epeoloides coecutiens;E. coecutiens;yes;1;24;2
+2;3;Galium verum;04.07.2018;alvar pasture;Laelatu field station;Hymenoptera;Halictus tumulorum;H. tumulorum;yes;1;25;2
+2;3;Galium verum;04.07.2018;alvar pasture;Laelatu field station;Diptera;Muscidae sp. 14;Muscidae sp. 14;yes;1;4;2
+2;3;Medicago sativa;04.07.2018;alvar pasture;Laelatu field station;Lepidoptera;Thymelicus sylvestris;T. sylvestris;no;1;;1
+2;4;Centaurea scabiosa;04.07.2018;alvar pasture;Laelatu field station;Hymenoptera;Bombus lapidarius;B. lapidarius;no;2;;0.5
+2;4;Centaurea scabiosa;04.07.2018;alvar pasture;Laelatu field station;Diptera;Muscidae sp. 7;Muscidae sp. 7;yes;1;14;0.5
+2;4;Galium album;04.07.2018;alvar pasture;Laelatu field station;Diptera;Muscidae sp. 11;Muscidae sp. 11;yes;1;13;10
+2;4;Galium album;04.07.2018;alvar pasture;Laelatu field station;Diptera;Muscidae sp. 14;Muscidae sp. 14;yes;1;11;10
+2;4;Galium album;04.07.2018;alvar pasture;Laelatu field station;Diptera;Muscidae sp. 29;Muscidae sp. 29;yes;1;12;10
+2;4;Medicago sativa;04.07.2018;alvar pasture;Laelatu field station;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;1
+2;4;Trifolium pratense;04.07.2018;alvar pasture;Laelatu field station;Lepidoptera;Autographa gamma;A. gamma;no;1;;1
+2;5;Campanula latifolia;04.07.2018;alvar pasture;Laelatu field station;Hymenoptera;Melitta haemorrhoidalis;M. haemorrhoidalis;yes;1;26;0.5
+2;5;Centaurea scabiosa;04.07.2018;alvar pasture;Laelatu field station;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;0.5
+2;5;Galium album;04.07.2018;alvar pasture;Laelatu field station;Diptera;Muscidae sp. 31;Muscidae sp. 31;yes;1;15;10
+2;5;Galium album;04.07.2018;alvar pasture;Laelatu field station;Diptera;Muscidae sp. 32;Muscidae sp. 32;yes;1;21;10
+2;5;Medicago sativa;04.07.2018;alvar pasture;Laelatu field station;Hymenoptera;Apis mellifera;A. mellifera;no;2;;2
+2;5;Medicago sativa;04.07.2018;alvar pasture;Laelatu field station;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;2
+2;5;Trifolium pratense;04.07.2018;alvar pasture;Laelatu field station;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;1
+2;6;Galium album;04.07.2018;alvar pasture;Laelatu field station;Diptera;Eupeodes corollae;E. corollae;yes;1;6;3
+2;6;Galium album;04.07.2018;alvar pasture;Laelatu field station;Diptera;Muscidae sp. 8;Muscidae sp. 8;yes;1;7;3
+2;6;Galium verum;04.07.2018;alvar pasture;Laelatu field station;Diptera;Muscidae sp. 7;Muscidae sp. 7;yes;1;8;2
+2;7;Galium verum;04.07.2018;alvar pasture;Laelatu field station;Diptera;Sarcophaga sp. 1;Sarcophaga sp. 1;yes;1;9;1
+2;7;Lathyrus pratensis;04.07.2018;alvar pasture;Laelatu field station;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;2
+2;7;Trifolium pratense;04.07.2018;alvar pasture;Laelatu field station;Lepidoptera;Thymelicus sylvestris;T. sylvestris;no;1;;2
+2;8;Trifolium pratense;04.07.2018;alvar pasture;Laelatu field station;Hymenoptera;Bombus ruderarius;B. ruderarius;no;1;;1
+2;9;Anthyllis vulneraria;04.07.2018;alvar pasture;Laelatu field station;Lepidoptera;Cupido minimus;C. minimus;no;1;;0.5
+2;9;Campanula glomerata;04.07.2018;alvar pasture;Laelatu field station;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;0.5
+2;9;Campanula glomerata;04.07.2018;alvar pasture;Laelatu field station;Diptera;Volucella bombylans;V. bombylans;yes;1;16;0.5
+2;9;Leucanthemum vulgare;04.07.2018;alvar pasture;Laelatu field station;Diptera;Anthomyiidae sp. 5;Anthomyiidae sp. 5;yes;1;10;0.5
+2;10;Achillea millefolium;04.07.2018;alvar pasture;Laelatu field station;Diptera;Volucella bombylans;V. bombylans;yes;1;18;0.5
+2;10;Anthyllis vulneraria;04.07.2018;alvar pasture;Laelatu field station;Hymenoptera;Ichneumonidae sp.;Ichneumonidae sp.;yes;1;17;4
+2;10;Campanula glomerata;04.07.2018;alvar pasture;Laelatu field station;Hymenoptera;Melitta haemorrhoidalis;M. haemorrhoidalis;yes;1;28;0.5
+2;10;Campanula glomerata;04.07.2018;alvar pasture;Laelatu field station;Hymenoptera;Melitta haemorrhoidalis;M. haemorrhoidalis;yes;1;27;0.5
+3;1;Anthyllis vulneraria;05.07.2018;alvar pasture;Matsalu Nationalpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;0.5
+3;1;Anthyllis vulneraria;05.07.2018;alvar pasture;Matsalu Nationalpark;Hymenoptera;Bombus pascuorum;B. pascuorum;no;1;;0.5
+3;1;Anthyllis vulneraria;05.07.2018;alvar pasture;Matsalu Nationalpark;Hymenoptera;Eucera longicornis;E. longicornis;yes;1;30;0.5
+3;1;Galium verum;05.07.2018;alvar pasture;Matsalu Nationalpark;Hymenoptera;Mimesa equestris;M. equestris;yes;1;1;0.5
+3;2;Centaurea scabiosa;05.07.2018;alvar pasture;Matsalu Nationalpark;Diptera;Eristalis tenax;E. tenax;yes;1;3;0.5
+3;2;Centaurea scabiosa;05.07.2018;alvar pasture;Matsalu Nationalpark;Diptera;Eupeodes corollae;E. corollae;yes;1;5;0.5
+3;2;Centaurea scabiosa;05.07.2018;alvar pasture;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;yes;1;4;0.5
+3;2;Galium verum;05.07.2018;alvar pasture;Matsalu Nationalpark;Diptera;Eupeodes corollae;E. corollae;yes;1;2;2
+3;3;Campanula persicifolia;05.07.2018;alvar pasture;Matsalu Nationalpark;Hymenoptera;Bombus soroeensis;B. soroeensis;no;1;;0.5
+3;3;Cirsium acaule;05.07.2018;alvar pasture;Matsalu Nationalpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;2;;0.5
+3;3;Cirsium acaule;05.07.2018;alvar pasture;Matsalu Nationalpark;Hymenoptera;Bombus pascuorum;B. pascuorum;no;1;;0.5
+3;3;Cirsium acaule;05.07.2018;alvar pasture;Matsalu Nationalpark;Hymenoptera;Bombus soroeensis;B. soroeensis;no;1;;0.5
+3;3;Cirsium acaule;05.07.2018;alvar pasture;Matsalu Nationalpark;Hymenoptera;Bombus terrestis;B. terrestis;no;2;;0.5
+3;3;Galium verum;05.07.2018;alvar pasture;Matsalu Nationalpark;Hymenoptera;Halictus tumulorum;H. tumulorum;yes;1;37;0.5
+3;3;Leucanthemum vulgare;05.07.2018;alvar pasture;Matsalu Nationalpark;Hymenoptera;Lasioglossum fulvicorne;L. fulvicorne;yes;1;36;1
+3;3;Pimpinella saxifraga;05.07.2018;alvar pasture;Matsalu Nationalpark;Hymenoptera;Crabro cribrarius;C. cribrarius;yes;1;6;0.5
+3;4;Campanula rotundifolia;05.07.2018;alvar pasture;Matsalu Nationalpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;2;;2
+3;4;Leucanthemum vulgare;05.07.2018;alvar pasture;Matsalu Nationalpark;Diptera;Lejogaster tarsata;L. tarsata;yes;1;7;3
+3;4;Leucanthemum vulgare;05.07.2018;alvar pasture;Matsalu Nationalpark;Diptera;Muscidae sp. 7;Muscidae sp. 7;yes;1;9;3
+3;4;Leucanthemum vulgare;05.07.2018;alvar pasture;Matsalu Nationalpark;Diptera;Pollenia sp. 3;Pollenia sp. 3;yes;1;8;3
+3;5;Cirsium acaule;05.07.2018;alvar pasture;Matsalu Nationalpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;0.5
+3;5;Leucanthemum vulgare;05.07.2018;alvar pasture;Matsalu Nationalpark;Diptera;Anthomyiidae sp. 16;Anthomyiidae sp. 16;yes;1;32;1
+3;5;Leucanthemum vulgare;05.07.2018;alvar pasture;Matsalu Nationalpark;Diptera;Anthomyiidae sp. 7;Anthomyiidae sp. 7;yes;1;33;1
+3;5;Leucanthemum vulgare;05.07.2018;alvar pasture;Matsalu Nationalpark;Diptera;Eriothrix rufomaculata;E. rufomaculata;yes;1;35;1
+3;5;Leucanthemum vulgare;05.07.2018;alvar pasture;Matsalu Nationalpark;Hymenoptera;Halictus tumulorum;H. tumulorum;yes;1;39;1
+3;5;Leucanthemum vulgare;05.07.2018;alvar pasture;Matsalu Nationalpark;Diptera;Nemotelus pantherinus;N. pantherinus;yes;1;31;1
+3;5;Leucanthemum vulgare;05.07.2018;alvar pasture;Matsalu Nationalpark;Diptera;Neomyia cornicina;N. cornicina;yes;1;34;1
+3;5;Leucanthemum vulgare;05.07.2018;alvar pasture;Matsalu Nationalpark;Lepidoptera;Oncocera semirubella;O. semirubella;yes;1;38;1
+3;6;Anthyllis vulneraria;05.07.2018;alvar pasture;Matsalu Nationalpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;3
+3;6;Leucanthemum vulgare;05.07.2018;alvar pasture;Matsalu Nationalpark;Diptera;Eristalis tenax;E. tenax;yes;1;10;2
+3;6;Leucanthemum vulgare;05.07.2018;alvar pasture;Matsalu Nationalpark;Diptera;Eupeodes corollae;E. corollae;yes;1;11;2
+3;6;Leucanthemum vulgare;05.07.2018;alvar pasture;Matsalu Nationalpark;Diptera;Eupeodes corollae;E. corollae;yes;1;12;2
+3;6;Leucanthemum vulgare;05.07.2018;alvar pasture;Matsalu Nationalpark;Diptera;Sphaerophoria scripta;S. scripta;yes;1;14;2
+3;6;Leucanthemum vulgare;05.07.2018;alvar pasture;Matsalu Nationalpark;Diptera;Syritta pipiens;S. pipiens;yes;1;13;2
+3;7;Anthyllis vulneraria;05.07.2018;alvar pasture;Matsalu Nationalpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;0.5
+3;7;Leucanthemum vulgare;05.07.2018;alvar pasture;Matsalu Nationalpark;Diptera;Anthomyiidae sp. 3;Anthomyiidae sp. 3;yes;1;42;1
+3;7;Leucanthemum vulgare;05.07.2018;alvar pasture;Matsalu Nationalpark;Diptera;Anthomyiidae sp. 9;Anthomyiidae sp. 9;yes;1;43;1
+3;7;Leucanthemum vulgare;05.07.2018;alvar pasture;Matsalu Nationalpark;Diptera;Neomyia viridescens;N. viridescens;yes;1;41;1
+3;7;Leucanthemum vulgare;05.07.2018;alvar pasture;Matsalu Nationalpark;Diptera;Sarcophaga sp. 4;Sarcophaga sp. 4;yes;1;40;1
+3;7;Pimpinella saxifraga;05.07.2018;alvar pasture;Matsalu Nationalpark;Diptera;Demoticus sp.;Demoticus sp.;yes;1;15;0.5
+3;7;Trifolium medium;05.07.2018;alvar pasture;Matsalu Nationalpark;Lepidoptera;Argynnis aglaja;A. aglaja;no;1;;0.5
+3;8;Cirsium acaule;05.07.2018;alvar pasture;Matsalu Nationalpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;0.5
+3;8;Leucanthemum vulgare;05.07.2018;alvar pasture;Matsalu Nationalpark;Diptera;Anthomyiidae sp. 8;Anthomyiidae sp. 8;yes;1;19;0.5
+3;8;Leucanthemum vulgare;05.07.2018;alvar pasture;Matsalu Nationalpark;Diptera;Eupeodes corollae;E. corollae;yes;1;16;0.5
+3;8;Leucanthemum vulgare;05.07.2018;alvar pasture;Matsalu Nationalpark;Diptera;Eupeodes corollae;E. corollae;yes;1;18;0.5
+3;8;Leucanthemum vulgare;05.07.2018;alvar pasture;Matsalu Nationalpark;Hymenoptera;Lasioglossum fulvicorne;L. fulvicorne;yes;1;20;0.5
+3;8;Leucanthemum vulgare;05.07.2018;alvar pasture;Matsalu Nationalpark;Diptera;Nemotelus pantherinus;N. pantherinus;yes;1;25;0.5
+3;8;Leucanthemum vulgare;05.07.2018;alvar pasture;Matsalu Nationalpark;Diptera;Syrphus ribesii;S. ribesii;yes;1;17;0.5
+3;9;Campanula persicifolia;05.07.2018;alvar pasture;Matsalu Nationalpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;1
+3;9;Cirsium acaule;05.07.2018;alvar pasture;Matsalu Nationalpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;0.5
+3;9;Leucanthemum vulgare;05.07.2018;alvar pasture;Matsalu Nationalpark;Diptera;Anthomyiidae sp. 11;Anthomyiidae sp. 11;yes;1;21;3
+3;9;Leucanthemum vulgare;05.07.2018;alvar pasture;Matsalu Nationalpark;Hymenoptera;Bombus veteranus;B. veteranus;no;1;;3
+3;9;Leucanthemum vulgare;05.07.2018;alvar pasture;Matsalu Nationalpark;Diptera;Gonia sp.;Gonia sp.;yes;1;22;3
+3;9;Leucanthemum vulgare;05.07.2018;alvar pasture;Matsalu Nationalpark;Diptera;Lejogaster tarsata;L. tarsata;yes;1;23;3
+3;10;Campanula persicifolia;05.07.2018;alvar pasture;Matsalu Nationalpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;3;;0.5
+3;10;Centaurea scabiosa;05.07.2018;alvar pasture;Matsalu Nationalpark;Hymenoptera;Nomada flavopicta;N. flavopicta;yes;1;24;0.5
+3;10;Leucanthemum vulgare;05.07.2018;alvar pasture;Matsalu Nationalpark;Diptera;Anthomyiidae sp. 1;Anthomyiidae sp. 1;yes;1;26;0.5
+3;10;Leucanthemum vulgare;05.07.2018;alvar pasture;Matsalu Nationalpark;Diptera;Anthomyiidae sp. 12;Anthomyiidae sp. 12;yes;1;28;0.5
+3;10;Leucanthemum vulgare;05.07.2018;alvar pasture;Matsalu Nationalpark;Diptera;Eristalis arbustorum;E. arbustorum;yes;1;29;0.5
+3;10;Leucanthemum vulgare;05.07.2018;alvar pasture;Matsalu Nationalpark;Diptera;Herina palustris;H. palustris;yes;1;27;0.5
+3;10;Leucanthemum vulgare;05.07.2018;alvar pasture;Matsalu Nationalpark;Hymenoptera;Lasioglossum fulvicorne;L. fulvicorne;yes;1;45;0.5
+3;10;Prunella vulgaris;05.07.2018;alvar pasture;Matsalu Nationalpark;Hymenoptera;Bombus ruderarius;B. ruderarius;no;1;;0.5
+3;10;Senecio jacobea;05.07.2018;alvar pasture;Matsalu Nationalpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;0.5
+3;10;Senecio jacobea;05.07.2018;alvar pasture;Matsalu Nationalpark;Hymenoptera;Melitta leporina;M. leporina;yes;1;46;0.5
+6;1;Cirsium acaule;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus pascuorum;B. pascuorum;no;1;;0.5
+6;1;Knautia arvensis;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus pascuorum;B. pascuorum;no;2;;0.5
+6;1;Knautia arvensis;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Lasioglossum albipes;L. albipes;yes;1;5;0.5
+6;1;Trifolium medium;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;8
+6;1;Trifolium medium;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus pascuorum;B. pascuorum;no;5;;8
+6;1;Vicia cracca;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus pascuorum;B. pascuorum;no;9;;3
+6;1;Vicia cracca;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus soroeensis;B. soroeensis;no;1;;3
+6;2;Cirsium acaule;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;2;;0.5
+6;2;Cirsium acaule;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus pascuorum;B. pascuorum;no;2;;0.5
+6;2;Cirsium acaule;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus soroeensis;B. soroeensis;no;1;;0.5
+6;2;Vicia cracca;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus pascuorum;B. pascuorum;no;6;;1
+6;3;Inula salicina;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;2;;0.5
+6;3;Leontodon hispidus;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;1
+6;4;Inula salicina;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;1
+6;4;Inula salicina;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Eurytomidae sp.;Eurytomidae sp.;yes;1;10;1
+6;4;Knautia arvensis;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;0.5
+6;4;Leontodon hispidus;06.07.2018;alvar pasture;Hanila windpark;Diptera;Pelecocera tricincta;P. tricincta;yes;1;14;0.5
+6;4;Trifolium medium;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus hortorum;B. hortorum;no;1;;5
+6;4;Trifolium medium;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;5
+6;4;Trifolium medium;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus pratorum;B. pratorum;no;2;;5
+6;5;Inula salicina;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;0.5
+6;5;Leontodon hispidus;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Lasioglossum albipes;L. albipes;yes;1;7;1
+6;5;Leontodon hispidus;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Lasioglossum fulvicorne;L. fulvicorne;yes;1;6;1
+6;5;Lotus corniculatus;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus pascuorum;B. pascuorum;no;1;;0.5
+6;5;Prunella vulgaris;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus pascuorum;B. pascuorum;no;1;;0.5
+6;5;Senecio jacobea;06.07.2018;alvar pasture;Hanila windpark;Diptera;Eupeodes nielseni;E. nielseni;yes;1;3;0.5
+6;5;Trifolium medium;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus pascuorum;B. pascuorum;no;2;;2
+6;5;Trifolium medium;06.07.2018;alvar pasture;Hanila windpark;Lepidoptera;Cupido minimus;C. minimus;no;1;;2
+6;5;Vicia cracca;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus pascuorum;B. pascuorum;no;4;;1
+6;6;Cirsium acaule;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus sylvarum;B. sylvarum;no;1;;0.5
+6;6;Knautia arvensis;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus pratorum;B. pratorum;no;2;;0.5
+6;6;Knautia arvensis;06.07.2018;alvar pasture;Hanila windpark;Diptera;Helophilus pendulus;H. pendulus;yes;1;12;0.5
+6;6;Leontodon hispidus;06.07.2018;alvar pasture;Hanila windpark;Diptera;Nemotelus pantherinus;N. pantherinus;yes;1;13;0.5
+6;6;Trifolium medium;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus humilis;B. humilis;no;1;;2
+6;7;Campanula rotundifolia;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;0.5
+6;7;Cirsium acaule;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus pascuorum;B. pascuorum;no;1;;0.5
+6;7;Inula salicina;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus pascuorum;B. pascuorum;no;1;;2
+6;7;Inula salicina;06.07.2018;alvar pasture;Hanila windpark;Diptera;Eupeodes corollae;E. corollae;yes;1;8;2
+6;7;Leontodon hispidus;06.07.2018;alvar pasture;Hanila windpark;Diptera;Pelecocera tricincta;P. tricincta;yes;1;15;0.5
+6;7;Trifolium medium;06.07.2018;alvar pasture;Hanila windpark;Lepidoptera;Autographa gamma;A. gamma;no;1;;2
+6;7;Trifolium medium;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;2
+6;7;Trifolium medium;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus pascuorum;B. pascuorum;no;1;;2
+6;8;Centaurea scabiosa;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus pascuorum;B. pascuorum;no;1;;0.5
+6;8;Galium verum;06.07.2018;alvar pasture;Hanila windpark;Diptera;Eupeodes corollae;E. corollae;yes;1;2;4
+6;8;Knautia arvensis;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus hortorum;B. hortorum;no;1;;0.5
+6;8;Knautia arvensis;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;2;;0.5
+6;8;Knautia arvensis;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus schrenkii;B. schrenkii;no;1;;0.5
+6;8;Trifolium medium;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus pascuorum;B. pascuorum;no;1;;3
+6;8;Trifolium montanum;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;3
+6;8;Trifolium montanum;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus pratorum;B. pratorum;no;1;;3
+6;8;Vicia cracca;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus pascuorum;B. pascuorum;no;1;;0.5
+6;9;Achillea millefolium;06.07.2018;alvar pasture;Hanila windpark;Diptera;Anthomyiidae sp. 18;Anthomyiidae sp. 18;yes;1;11;0.5
+6;9;Achillea millefolium;06.07.2018;alvar pasture;Hanila windpark;Diptera;Anthomyiidae sp. 4;Anthomyiidae sp. 4;yes;1;9;0.5
+6;9;Inula salicina;06.07.2018;alvar pasture;Hanila windpark;Diptera;Muscidae sp. 13;Muscidae sp. 13;yes;1;1;0.5
+6;9;Trifolium medium;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus hortorum;B. hortorum;no;1;;0.5
+6;9;Trifolium medium;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus humilis;B. humilis;no;2;;0.5
+6;9;Trifolium medium;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus pascuorum;B. pascuorum;no;11;;0.5
+6;9;Vicia cracca;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus pascuorum;B. pascuorum;no;1;;1
+6;9;Vicia cracca;06.07.2018;alvar pasture;Hanila windpark;Lepidoptera;Pieris rapae;P. rapae;no;1;;1
+6;10;Asperula tinctoria;06.07.2018;alvar pasture;Hanila windpark;Diptera;Nephrotoma sp.;Nephrotoma sp.;yes;1;4;0.5
+6;10;Knautia arvensis;06.07.2018;alvar pasture;Hanila windpark;Lepidoptera;Zygaena lonicerae;Z. lonicerae;no;1;;0.5
+6;10;Leontodon hispidus;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus pascuorum;B. pascuorum;no;1;;1
+6;10;Trifolium medium;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus hortorum;B. hortorum;no;2;;1
+6;10;Trifolium medium;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus pascuorum;B. pascuorum;no;3;;1
+6;10;Vicia cracca;06.07.2018;alvar pasture;Hanila windpark;Hymenoptera;Bombus pascuorum;B. pascuorum;no;2;;1
+1;1;Centaurea jacea;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus pascuorum;B. pascuorum;no;1;;1
+1;1;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus hortorum;B. hortorum;no;1;;2
+1;1;Pimpinella saxifraga;04.07.2018;wooded meadow;Laelatu field station;Diptera;Muscidae sp. 19;Muscidae sp. 19;yes;1;3;3
+1;1;Pimpinella saxifraga;04.07.2018;wooded meadow;Laelatu field station;Diptera;Muscidae sp. 6;Muscidae sp. 6;yes;1;1;3
+1;1;Pimpinella saxifraga;04.07.2018;wooded meadow;Laelatu field station;Diptera;Muscidae sp. 6;Muscidae sp. 6;yes;1;2;3
+1;1;Seratula tinctoria;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus pascuorum;B. pascuorum;no;5;;3
+1;1;Seratula tinctoria;04.07.2018;wooded meadow;Laelatu field station;Diptera;Helophilus pendulus;H. pendulus;yes;1;5;3
+1;1;Seratula tinctoria;04.07.2018;wooded meadow;Laelatu field station;Diptera;Muscidae sp. 6;Muscidae sp. 6;yes;1;4;3
+1;1;Seratula tinctoria;04.07.2018;wooded meadow;Laelatu field station;Diptera;Muscidae sp. 6;Muscidae sp. 6;yes;1;6;3
+1;2;Leucanthemum vulgare;04.07.2018;wooded meadow;Laelatu field station;Diptera;Muscidae sp. 10;Muscidae sp. 10;yes;1;8;2
+1;2;Leucanthemum vulgare;04.07.2018;wooded meadow;Laelatu field station;Diptera;Muscidae sp. 6;Muscidae sp. 6;yes;1;9;2
+1;2;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus pascuorum;B. pascuorum;no;2;;4
+1;2;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus terrestis;B. terrestis;no;4;;4
+1;2;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Diptera;Eristalis tenax;E. tenax;no;1;;4
+1;2;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Diptera;Ichneumonidae sp.;Ichneumonidae sp.;yes;1;19;4
+1;2;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Diptera;Muscidae sp. 6;Muscidae sp. 6;yes;1;20;4
+1;2;Pimpinella saxifraga;04.07.2018;wooded meadow;Laelatu field station;Diptera;Muscidae sp. 6;Muscidae sp. 6;yes;1;7;3
+1;2;Prunella vulgaris;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus pascuorum;B. pascuorum;no;3;;1
+1;3;Aegopodium podagraria;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Argogorytes mystaceus;A. mystaceus;yes;1;12;1
+1;3;Aegopodium podagraria;04.07.2018;wooded meadow;Laelatu field station;Diptera;Eristalis tenax;E. tenax;yes;1;17;1
+1;3;Aegopodium podagraria;04.07.2018;wooded meadow;Laelatu field station;Diptera;Helophilus pendulus;H. pendulus;yes;1;18;1
+1;3;Aegopodium podagraria;04.07.2018;wooded meadow;Laelatu field station;Diptera;Muscidae sp. 4;Muscidae sp. 4;yes;1;15;1
+1;3;Aegopodium podagraria;04.07.2018;wooded meadow;Laelatu field station;Diptera;Muscidae sp. 4;Muscidae sp. 4;yes;1;11;1
+1;3;Aegopodium podagraria;04.07.2018;wooded meadow;Laelatu field station;Diptera;Sarcophaga sp. 1;Sarcophaga sp. 1;yes;1;13a;1
+1;3;Aegopodium podagraria;04.07.2018;wooded meadow;Laelatu field station;Diptera;Sarcophaga sp. 3;Sarcophaga sp. 3;yes;1;14;1
+1;3;Centaurea jacea;04.07.2018;wooded meadow;Laelatu field station;Lepidoptera;Aphantopus hyperantus;A. hyperantus;no;1;;0.5
+1;3;Leucanthemum vulgare;04.07.2018;wooded meadow;Laelatu field station;Lepidoptera;Aphantopus hyperantus;A. hyperantus;no;1;;2
+1;3;Leucanthemum vulgare;04.07.2018;wooded meadow;Laelatu field station;Diptera;Helophilus pendulus;H. pendulus;yes;1;10;2
+1;3;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Lepidoptera;Aphantopus hyperantus;A. hyperantus;no;1;;4
+1;3;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus hortorum;B. hortorum;no;1;;4
+1;3;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus pascuorum;B. pascuorum;no;3;;4
+1;3;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus pratorum;B. pratorum;no;1;;4
+1;3;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus soroeensis;B. soroeensis;no;2;;4
+1;3;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus terrestis;B. terrestis;no;2;;4
+1;3;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus terrestis;B. terrestis;no;1;;4
+1;3;Pimpinella saxifraga;04.07.2018;wooded meadow;Laelatu field station;Diptera;Sphaerophoria scripta;S. scripta;no;1;;4
+1;3;Prunella vulgaris;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus pascuorum;B. pascuorum;no;1;;1
+1;3;Seratula tinctoria;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus hortorum;B. hortorum;no;1;;2
+1;3;Seratula tinctoria;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus pascuorum;B. pascuorum;no;1;;2
+1;3;Seratula tinctoria;04.07.2018;wooded meadow;Laelatu field station;Diptera;Muscidae sp. 2;Muscidae sp. 2;yes;1;16;2
+1;3;Trifolium pratense;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus hortorum;B. hortorum;no;1;;1
+1;4;Campanula glomerata;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;0.5
+1;4;Campanula persicifolia;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;1
+1;4;Campanula persicifolia;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus terrestis;B. terrestis;no;1;;1
+1;4;Campanula persicifolia;04.07.2018;wooded meadow;Laelatu field station;Diptera;Muscidae sp. 1;Muscidae sp. 1;yes;1;23;1
+1;4;Campanula persicifolia;04.07.2018;wooded meadow;Laelatu field station;Diptera;Muscidae sp. 20;Muscidae sp. 20;yes;1;13;1
+1;4;Centaurea jacea;04.07.2018;wooded meadow;Laelatu field station;Diptera;Anthomyiidae sp. 14;Anthomyiidae sp. 14;yes;1;22;1
+1;4;Galium boreale;04.07.2018;wooded meadow;Laelatu field station;Diptera;Eristalis tenax;E. tenax;no;1;;0.5
+1;4;Galium verum;04.07.2018;wooded meadow;Laelatu field station;Diptera;Sarcophaga sp. 5;Sarcophaga sp. 5;yes;1;18a;0.5
+1;4;Helianthemum nummularium;04.07.2018;wooded meadow;Laelatu field station;Diptera;Eupeodes corollae;E. corollae;yes;1;29;0.5
+1;4;Helianthemum nummularium;04.07.2018;wooded meadow;Laelatu field station;Diptera;Scaeva selenitica;S. selenitica;yes;1;30;0.5
+1;4;Leucanthemum vulgare;04.07.2018;wooded meadow;Laelatu field station;Diptera;Eristalis tenax;E. tenax;no;2;;1
+1;4;Leucanthemum vulgare;04.07.2018;wooded meadow;Laelatu field station;Diptera;Muscidae sp. 1;Muscidae sp. 1;yes;1;24;1
+1;4;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;2
+1;4;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus terrestis;B. terrestis;no;5;;2
+1;4;Pimpinella saxifraga;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Arge sp.;Arge sp.;yes;1;26;4
+1;4;Pimpinella saxifraga;04.07.2018;wooded meadow;Laelatu field station;Diptera;Chrysotoxum bicinctum;C. bicinctum;yes;1;25;4
+1;4;Pimpinella saxifraga;04.07.2018;wooded meadow;Laelatu field station;Diptera;Eristalis rupium;E. rupium;yes;1;27;4
+1;4;Pimpinella saxifraga;04.07.2018;wooded meadow;Laelatu field station;Diptera;Eristalis tenax;E. tenax;no;2;;4
+1;4;Prunella vulgaris;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;1
+1;4;Prunella vulgaris;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus terrestis;B. terrestis;no;1;;1
+1;4;Seratula tinctoria;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus terrestis;B. terrestis;no;1;;1
+1;5;Campanula persicifolia;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;1
+1;5;Centaurea jacea;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus pascuorum;B. pascuorum;no;1;;4
+1;5;Centaurea jacea;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus pascuorum;B. pascuorum;no;4;;4
+1;5;Centaurea jacea;04.07.2018;wooded meadow;Laelatu field station;Diptera;Helophilus pendulus;H. pendulus;yes;1;38;4
+1;5;Centaurea jacea;04.07.2018;wooded meadow;Laelatu field station;Lepidoptera;Zygaena viciae;Z. viciae;no;2;collected;4
+1;5;Helianthemum nummularium;04.07.2018;wooded meadow;Laelatu field station;Diptera;Eristalis tenax;E. tenax;no;1;;1
+1;5;Leontodon hispidus;04.07.2018;wooded meadow;Laelatu field station;Diptera;Eristalis tenax;E. tenax;no;1;;0.5
+1;5;Leontodon hispidus;04.07.2018;wooded meadow;Laelatu field station;Diptera;Eristalis tenax;E. tenax;no;1;;0.5
+1;5;Leucanthemum vulgare;04.07.2018;wooded meadow;Laelatu field station;Diptera;Eristalis tenax;E. tenax;no;1;;2
+1;5;Leucanthemum vulgare;04.07.2018;wooded meadow;Laelatu field station;Diptera;Eristalis tenax;E. tenax;yes;1;39;2
+1;5;Leucanthemum vulgare;04.07.2018;wooded meadow;Laelatu field station;Diptera;Fannia sp.;Fannia sp.;yes;1;37;2
+1;5;Leucanthemum vulgare;04.07.2018;wooded meadow;Laelatu field station;Diptera;Helophilus pendulus;H. pendulus;yes;1;36;2
+1;5;Leucanthemum vulgare;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Lasioglossum albipes;L. albipes;yes;1;63;2
+1;5;Leucanthemum vulgare;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Megachile versicolor;M. versicolor;yes;1;40;2
+1;5;Leucanthemum vulgare;04.07.2018;wooded meadow;Laelatu field station;Diptera;Muscidae sp. 1;Muscidae sp. 1;yes;1;31;2
+1;5;Leucanthemum vulgare;04.07.2018;wooded meadow;Laelatu field station;Diptera;Muscidae sp. 1;Muscidae sp. 1;yes;1;32;2
+1;5;Leucanthemum vulgare;04.07.2018;wooded meadow;Laelatu field station;Diptera;Muscidae sp. 1;Muscidae sp. 1;yes;1;34;2
+1;5;Leucanthemum vulgare;04.07.2018;wooded meadow;Laelatu field station;Diptera;Muscidae sp. 2;Muscidae sp. 2;yes;1;35;2
+1;5;Leucanthemum vulgare;04.07.2018;wooded meadow;Laelatu field station;Diptera;Muscidae sp. 28;Muscidae sp. 28;yes;1;33;2
+1;5;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;1
+1;5;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus pascuorum;B. pascuorum;no;1;;1
+1;5;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus pascuorum;B. pascuorum;no;1;;1
+1;5;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Lepidoptera;Zygaena viciae;Z. viciae;no;1;;1
+1;6;Leucanthemum vulgare;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;0.5
+1;6;Leucanthemum vulgare;04.07.2018;wooded meadow;Laelatu field station;Diptera;Eupeodes corollae;E. corollae;yes;1;41;0.5
+1;6;Leucanthemum vulgare;04.07.2018;wooded meadow;Laelatu field station;Diptera;Muscidae sp. 1;Muscidae sp. 1;yes;1;42;0.5
+1;6;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus lapidarius;B. lapidarius;no;3;;20
+1;6;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus terrestis;B. terrestis;no;8;;20
+1;6;Pimpinella saxifraga;04.07.2018;wooded meadow;Laelatu field station;Diptera;Cheilosia pagana;C. pagana;yes;1;43;4
+1;7;Campanula glomerata;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;0.5
+1;7;Centaurea jacea;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus lapidarius;B. lapidarius;no;2;;1
+1;7;Centaurea jacea;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus soroeensis;B. soroeensis;no;1;;1
+1;7;Centaurea jacea;04.07.2018;wooded meadow;Laelatu field station;Diptera;Eristalis tenax;E. tenax;no;1;;1
+1;7;Gymnadenia conopsea;04.07.2018;wooded meadow;Laelatu field station;Diptera;Helophilus pendulus;H. pendulus;yes;1;45;0.5
+1;7;Leucanthemum vulgare;04.07.2018;wooded meadow;Laelatu field station;Diptera;Eristalis tenax;E. tenax;no;1;;1
+1;7;Leucanthemum vulgare;04.07.2018;wooded meadow;Laelatu field station;Diptera;Helophilus pendulus;H. pendulus;yes;1;44;1
+1;7;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus lapidarius;B. lapidarius;no;6;;10
+1;7;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus lucorum;B. lucorum;no;6;;10
+1;7;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus pascuorum;B. pascuorum;no;1;;10
+1;7;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus soroeensis;B. soroeensis;no;4;;10
+1;7;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus terrestis;B. terrestis;no;2;;10
+1;7;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Diptera;Helophilus pendulus;H. pendulus;yes;1;46;10
+1;7;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Diptera;Sarcophaga sp. 1;Sarcophaga sp. 1;yes;1;47;10
+1;7;Pimpinella saxifraga;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Argogorytes mystaceus;A. mystaceus;yes;1;52;3
+1;7;Pimpinella saxifraga;04.07.2018;wooded meadow;Laelatu field station;Diptera;Sarcophaga sp. 1;Sarcophaga sp. 1;yes;1;51;3
+1;7;Pimpinella saxifraga;04.07.2018;wooded meadow;Laelatu field station;Diptera;Sarcophaga sp. 1;Sarcophaga sp. 1;yes;1;53;3
+1;7;Pimpinella saxifraga;04.07.2018;wooded meadow;Laelatu field station;Diptera;Sarcophaga sp. 1;Sarcophaga sp. 1;yes;1;54;3
+1;7;Pimpinella saxifraga;04.07.2018;wooded meadow;Laelatu field station;Diptera;Sarcophaga sp. 1;Sarcophaga sp. 1;yes;1;56;3
+1;7;Pimpinella saxifraga;04.07.2018;wooded meadow;Laelatu field station;Diptera;Sarcophaga sp. 6;Sarcophaga sp. 6;yes;1;55;3
+1;7;Prunella vulgaris;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus soroeensis;B. soroeensis;no;1;;0.5
+1;7;Seratula tinctoria;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus lapidarius;B. lapidarius;no;3;;1
+1;7;Seratula tinctoria;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus pascuorum;B. pascuorum;no;3;;1
+1;7;Seratula tinctoria;04.07.2018;wooded meadow;Laelatu field station;Diptera;Helophilus hybridus;H. hybridus;yes;1;49;1
+1;7;Seratula tinctoria;04.07.2018;wooded meadow;Laelatu field station;Diptera;Helophilus pendulus;H. pendulus;yes;1;48;1
+1;7;Seratula tinctoria;04.07.2018;wooded meadow;Laelatu field station;Diptera;Volucella pellucens;V. pellucens;yes;1;50;1
+1;8;Galium boreale;04.07.2018;wooded meadow;Laelatu field station;Diptera;Helophilus pendulus;H. pendulus;yes;1;58;1
+1;8;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus terrestis;B. terrestis;no;4;;4
+1;8;Pimpinella saxifraga;04.07.2018;wooded meadow;Laelatu field station;Diptera;Helophilus pendulus;H. pendulus;yes;1;64;3
+1;8;Pimpinella saxifraga;04.07.2018;wooded meadow;Laelatu field station;Diptera;Muscidae sp. 1;Muscidae sp. 1;yes;1;63a;3
+1;8;Pimpinella saxifraga;04.07.2018;wooded meadow;Laelatu field station;Diptera;Muscidae sp. 1;Muscidae sp. 1;yes;1;57;3
+1;8;Pimpinella saxifraga;04.07.2018;wooded meadow;Laelatu field station;Diptera;Muscidae sp. 5;Muscidae sp. 5;yes;1;65a;3
+1;8;Pimpinella saxifraga;04.07.2018;wooded meadow;Laelatu field station;Diptera;Oplodontha viridula;O. viridula;yes;1;62;3
+1;8;Pimpinella saxifraga;04.07.2018;wooded meadow;Laelatu field station;Diptera;Sarcophaga sp. 1;Sarcophaga sp. 1;yes;1;60;3
+1;8;Pimpinella saxifraga;04.07.2018;wooded meadow;Laelatu field station;Diptera;Scathophagidae sp.;Scathophagidae sp.;yes;1;63a;3
+1;8;Seratula tinctoria;04.07.2018;wooded meadow;Laelatu field station;Lepidoptera;Aphantopus hyperantus;A. hyperantus;no;1;;3
+1;8;Seratula tinctoria;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus lapidarius;B. lapidarius;no;3;;3
+1;8;Seratula tinctoria;04.07.2018;wooded meadow;Laelatu field station;Diptera;Eristalis tenax;E. tenax;no;1;;3
+1;8;Seratula tinctoria;04.07.2018;wooded meadow;Laelatu field station;Diptera;Helophilus hybridus;H. hybridus;yes;1;61;3
+1;8;Seratula tinctoria;04.07.2018;wooded meadow;Laelatu field station;Diptera;Sarcophaga sp. 2;Sarcophaga sp. 2;yes;1;59;3
+1;9;Centaurea jacea;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus pascuorum;B. pascuorum;no;1;;0.5
+1;9;Centaurea jacea;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus terrestis;B. terrestis;no;1;;0.5
+1;9;Dactylorhiza fuchsii;04.07.2018;wooded meadow;Laelatu field station;Diptera;Helophilus pendulus;H. pendulus;yes;1;67;0.5
+1;9;Leucanthemum vulgare;04.07.2018;wooded meadow;Laelatu field station;Diptera;Helophilus pendulus;H. pendulus;yes;1;66a;1
+1;9;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus hortorum;B. hortorum;no;1;;7
+1;9;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus lapidarius;B. lapidarius;no;5;;7
+1;9;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus pascuorum;B. pascuorum;no;3;;7
+1;9;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus terrestis;B. terrestis;no;5;;7
+1;9;Seratula tinctoria;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;1
+1;9;Seratula tinctoria;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus pascuorum;B. pascuorum;no;1;;1
+1;10;Campanula glomerata;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;0.5
+1;10;Centaurea jacea;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;0.5
+1;10;Galium album;04.07.2018;wooded meadow;Laelatu field station;Diptera;Parhelophilus versicolor;P. versicolor;yes;1;68;1
+1;10;Heracleum sibiricum;04.07.2018;wooded meadow;Laelatu field station;Diptera;Melangyna umbellatarum;M. umbellatarum;yes;1;82;0.5
+1;10;Leucanthemum vulgare;04.07.2018;wooded meadow;Laelatu field station;Diptera;Asilinae sp.;Asilinae sp.;yes;1;81;1
+1;10;Leucanthemum vulgare;04.07.2018;wooded meadow;Laelatu field station;Diptera;Helophilus pendulus;H. pendulus;yes;1;78;1
+1;10;Leucanthemum vulgare;04.07.2018;wooded meadow;Laelatu field station;Diptera;Helophilus pendulus;H. pendulus;yes;1;77;1
+1;10;Leucanthemum vulgare;04.07.2018;wooded meadow;Laelatu field station;Diptera;Muscidae sp. 21;Muscidae sp. 21;yes;1;79;1
+1;10;Leucanthemum vulgare;04.07.2018;wooded meadow;Laelatu field station;Diptera;Muscidae sp. 27;Muscidae sp. 27;yes;1;80;1
+1;10;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;7
+1;10;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus lucorum;B. lucorum;no;4;;7
+1;10;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus pascuorum;B. pascuorum;no;2;;7
+1;10;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus pratorum;B. pratorum;no;1;;7
+1;10;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus soroeensis;B. soroeensis;no;4;;7
+1;10;Melampyrum nemorosum;04.07.2018;wooded meadow;Laelatu field station;Diptera;Helophilus pendulus;H. pendulus;yes;1;76;7
+1;10;Pimpinella saxifraga;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Andrena fucata;A. fucata;yes;1;65;7
+1;10;Pimpinella saxifraga;04.07.2018;wooded meadow;Laelatu field station;Diptera;Anthomyiidae sp. 6;Anthomyiidae sp. 6;yes;1;69;7
+1;10;Pimpinella saxifraga;04.07.2018;wooded meadow;Laelatu field station;Diptera;Calliphoridae sp. 3;Calliphoridae sp. 3;yes;1;70;7
+1;10;Pimpinella saxifraga;04.07.2018;wooded meadow;Laelatu field station;Diptera;Calliphoridae sp. 4;Calliphoridae sp. 4;yes;1;73;7
+1;10;Pimpinella saxifraga;04.07.2018;wooded meadow;Laelatu field station;Diptera;Eristalis arbustorum;E. arbustorum;yes;1;75;7
+1;10;Pimpinella saxifraga;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Lasioglossum calceatum;L. calceatum;yes;1;66;7
+1;10;Pimpinella saxifraga;04.07.2018;wooded meadow;Laelatu field station;Diptera;Muscidae sp. 5;Muscidae sp. 5;yes;1;74;7
+1;10;Pimpinella saxifraga;04.07.2018;wooded meadow;Laelatu field station;Diptera;Muscidae sp. 5;Muscidae sp. 5;yes;1;71;7
+1;10;Pimpinella saxifraga;04.07.2018;wooded meadow;Laelatu field station;Diptera;Muscidae sp. 5;Muscidae sp. 5;yes;1;72;7
+1;10;Prunella vulgaris;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus pascuorum;B. pascuorum;no;2;;1
+1;10;Seratula tinctoria;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;1
+1;10;Seratula tinctoria;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus pascuorum;B. pascuorum;no;1;;1
+1;10;Seratula tinctoria;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus pascuorum;B. pascuorum;no;3;;1
+1;10;Seratula tinctoria;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus soroeensis;B. soroeensis;no;1;;1
+1;10;Trifolium medium;04.07.2018;wooded meadow;Laelatu field station;Hymenoptera;Bombus soroeensis;B. soroeensis;no;1;;0.5
+4;1;Leontodon hispidus;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Aphantopus hyperantus;A. hyperantus;no;1;;0.5
+4;1;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;no;2;;2
+4;1;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;yes;1;1;2
+4;1;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;Yes;1;6;2
+4;1;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 1;Muscidae sp. 1;yes;1;2;2
+4;1;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 1;Muscidae sp. 1;yes;1;3;2
+4;1;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 1;Muscidae sp. 1;yes;1;5;2
+4;1;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 12;Muscidae sp. 12;yes;1;4;2
+4;1;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;yes;1;12;1
+4;2;Campanula rotundifolia;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;yes;1;11;0.5
+4;2;Hypericum maculatum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Lasioglossum villosulum;L. villosulum;yes;1;13;0.5
+4;2;Leontodon hispidus;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Anthomyiidae sp. 15;Anthomyiidae sp. 15;yes;1;8;1
+4;2;Leontodon hispidus;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;yes;1;10;1
+4;2;Leontodon hispidus;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 9;Muscidae sp. 9;yes;1;9;1
+4;2;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;yes;1;14;2
+4;2;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 1;Muscidae sp. 1;yes;1;15;2
+4;2;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 1;Muscidae sp. 1;yes;1;16;2
+4;2;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Thymelicus sylvestris;T. sylvestris;no;1;;1
+4;2;Trifolium montanum;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 1;Muscidae sp. 1;yes;1;7;0.5
+4;2;Trifolium pratense;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus sylvarum;B. sylvarum;no;1;;0.5
+4;2;Trifolium pratense;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Pieris rapae;P. rapae;no;1;;0.5
+4;3;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;yes;1;25;8
+4;3;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;yes;1;27;8
+4;3;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;yes;1;29;8
+4;3;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;Yes;1;24;8
+4;3;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;yes;1;26;8
+4;3;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 1;Muscidae sp. 1;yes;1;18;8
+4;3;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 1;Muscidae sp. 1;yes;1;19;8
+4;3;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 1;Muscidae sp. 1;yes;1;20;8
+4;3;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 1;Muscidae sp. 1;yes;1;21;8
+4;3;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 1;Muscidae sp. 1;yes;1;22;8
+4;3;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 5;Muscidae sp. 5;yes;1;23;8
+4;3;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;2;;8
+4;3;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus soroeensis;B. soroeensis;no;3;;8
+4;3;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus terrestis;B. terrestis;no;1;;8
+4;3;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Cupido minimus;C. minimus;no;1;;8
+4;4;Hypericum maculatum;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Anthomyiidae sp. 2;Anthomyiidae sp. 2;yes;1;30;0.5
+4;4;Hypericum maculatum;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 4;Muscidae sp. 4;yes;1;31;0.5
+4;4;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;yes;1;28;3
+4;4;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;yes;1;38;3
+4;4;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Ichneumonidae sp.;Ichneumonidae sp.;yes;1;17;3
+4;4;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 1;Muscidae sp. 1;yes;1;37;3
+4;4;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 1;Muscidae sp. 1;yes;1;32;3
+4;4;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 1;Muscidae sp. 1;yes;1;33;3
+4;4;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 14;Muscidae sp. 14;no;12;;3
+4;4;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 3;Muscidae sp. 3;yes;1;35;3
+4;4;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 4;Muscidae sp. 4;yes;1;34;3
+4;4;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 4;Muscidae sp. 4;yes;1;36;3
+4;4;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;4;;5
+4;4;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus lucorum;B. lucorum;no;3;;5
+4;4;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus soroeensis;B. soroeensis;no;1;;5
+4;4;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Coenonympha glycerion;C. glycerion;no;1;;5
+4;5;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 1;Muscidae sp. 1;yes;1;39;1
+4;5;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Aphantopus hyperantus;A. hyperantus;no;1;;2
+4;5;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;yes;1;69;2
+4;6;Campanula persicifolia;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Coenonympha glycerion;C. glycerion;no;1;;0.5
+4;6;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Aphantopus hyperantus;A. hyperantus;no;1;;0.5
+4;6;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Cylindromyia brassicaria;C. brassicaria;no;1;;0.5
+4;6;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Cylindromyia brassicaria;C. brassicaria;yes;1;45;0.5
+4;6;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;yes;1;42;0.5
+4;6;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;yes;1;43;0.5
+4;6;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;yes;1;44;0.5
+4;6;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;yes;1;46;0.5
+4;6;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Aphantopus hyperantus;A. hyperantus;no;1;;3
+4;6;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus humilis;B. humilis;yes;1;50;3
+4;6;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;8;;3
+4;6;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus lucorum;B. lucorum;no;3;;3
+4;6;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus pascuorum;B. pascuorum;no;3;;3
+4;6;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus sylvarum;B. sylvarum;no;1;;3
+4;6;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus hybridus;H. hybridus;yes;1;40;3
+4;6;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;yes;1;41;3
+4;6;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Zygaena viciae;Z. viciae;no;1;;3
+4;7;Gymnadenia conopsea;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 1;Muscidae sp. 1;yes;1;47;0.5
+4;7;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 1;Muscidae sp. 1;yes;1;49;1
+4;7;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 5;Muscidae sp. 5;yes;1;48;1
+4;7;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus soroeensis;B. soroeensis;no;1;;1
+4;8;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Aphantopus hyperantus;A. hyperantus;no;1;;5
+4;8;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Coenonympha glycerion;C. glycerion;no;1;;5
+4;8;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;no;2;;5
+4;8;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;yes;1;62;5
+4;8;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;yes;1;61;5
+4;8;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;yes;1;63;5
+4;8;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 1;Muscidae sp. 1;yes;1;64;5
+4;8;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 1;Muscidae sp. 1;yes;1;65;5
+4;8;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 5;Muscidae sp. 5;yes;1;66;5
+4;8;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 5;Muscidae sp. 5;yes;1;67;5
+4;8;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Syritta pipiens;S. pipiens;yes;1;59;5
+4;8;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Syritta pipiens;S. pipiens;yes;1;60;5
+4;8;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;10
+4;8;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus soroeensis;B. soroeensis;no;3;;10
+4;8;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Megachile willughbiella;M. willughbiella;yes;1;71;10
+4;8;Prunella vulgaris;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;yes;1;68;0.5
+4;9;Aegopodium podagraria;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Syritta pipiens;S. pipiens;yes;1;70;0.5
+4;9;Leontodon hispidus;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;yes;1;53;0.5
+4;9;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;no;9;;1
+4;9;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;5;;15
+4;9;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus soroeensis;B. soroeensis;no;2;;15
+4;9;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus terrestis;B. terrestis;no;2;;15
+4;9;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;no;6;;15
+4;9;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;yes;1;54;15
+4;9;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;yes;1;55;15
+4;9;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;yes;1;56;15
+4;9;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Ichneumonidae sp.;Ichneumonidae sp.;yes;1;58;15
+4;9;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 1;Muscidae sp. 1;yes;1;57;15
+4;10;Campanula glomerata;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;0.5
+4;10;Campanula persicifolia;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus soroeensis;B. soroeensis;no;1;;1
+4;10;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Aphantopus hyperantus;A. hyperantus;no;1;;7
+4;10;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;7
+4;10;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Coenonympha glycerion;C. glycerion;no;1;;7
+4;10;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Cupido minimus;C. minimus;no;1;;7
+4;10;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;no;17;;7
+4;10;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 1;Muscidae sp. 1;yes;1;52;7
+4;10;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Pollenia sp. 1;Pollenia sp. 1;yes;1;51;7
+4;10;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;3
+4;10;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;no;1;;3
+5;1;Campanula glomerata;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;2;;0.5
+5;1;Campanula glomerata;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus soroeensis;B. soroeensis;no;2;;0.5
+5;1;Campanula persicifolia;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus soroeensis;B. soroeensis;no;1;;0.5
+5;1;Dactylorhiza fuchsii;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Aphantopus hyperantus;A. hyperantus;no;1;;0.5
+5;1;Heracleum sibiricum;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Coremacera marginata;C. Marginata;yes;1;49;0.5
+5;1;Heracleum sibiricum;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 16;Muscidae sp. 16;yes;1;1;0.5
+5;1;Heracleum sibiricum;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 26;Muscidae sp. 26;yes;1;2;0.5
+5;1;Inula salicina;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;yes;1;4;0.5
+5;1;Inula salicina;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Maniola jurtina;M. jurtina;no;1;;0.5
+5;1;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Aphantopus hyperantus;A. hyperantus;no;1;;0.5
+5;1;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Heriades truncorum;H. truncorum;yes;1;45;0.5
+5;1;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Heriades truncorum;H. truncorum;yes;1;48;0.5
+5;1;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Hydrotaea sp.;Hydrotaea sp.;yes;1;47;0.5
+5;1;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Pieris rapae;P. rapae;no;1;;0.5
+5;1;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;2;;0.5
+5;1;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus soroeensis;B. soroeensis;no;2;;0.5
+5;1;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus hybridus;H. hybridus;yes;1;46;0.5
+5;2;Centaurea jacea;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Aphantopus hyperantus;A. hyperantus;no;1;;1
+5;2;Centaurea jacea;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus lucorum;B. lucorum;no;1;;1
+5;2;Centaurea jacea;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Brenthis ino;B. ino;no;5;;1
+5;2;Centaurea jacea;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Eristalis tenax;E. tenax;no;1;;1
+5;2;Centaurea jacea;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Thymelicus lineola;T. lineola;no;1;;1
+5;2;Heracleum sibiricum;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Syritta pipiens;S. pipiens;yes;1;6;1
+5;2;Heracleum sibiricum;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Syritta pipiens;S. pipiens;yes;1;7;1
+5;2;Hypericum maculatum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus terrestis;B. terrestis;no;3;;7
+5;2;Inula salicina;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Aphantopus hyperantus;A. hyperantus;no;1;;0.5
+5;2;Inula salicina;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Brenthis ino;B. ino;no;2;;0.5
+5;2;Inula salicina;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;yes;1;3;0.5
+5;2;Inula salicina;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Heriades truncorum;H. truncorum;yes;1;50;0.5
+5;2;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Ancistrocerus parietum;A. parietum;yes;1;5;5
+5;2;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;5
+5;2;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus soroeensis;B. soroeensis;no;1;;5
+5;2;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus terrestis;B. terrestis;no;3;;5
+5;3;Aegopodium podagraria;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 22;Muscidae sp. 22;yes;1;53;0.5
+5;3;Aegopodium podagraria;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 23;Muscidae sp. 23;yes;1;54;0.5
+5;3;Aegopodium podagraria;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 24;Muscidae sp. 24;yes;1;52;0.5
+5;3;Campanula glomerata;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;1
+5;3;Crepis paludosa;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Aphantopus hyperantus;A. hyperantus;no;1;;0.5
+5;3;Dactylorhiza fuchsii;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Aphantopus hyperantus;A. hyperantus;no;1;;0.5
+5;3;Heracleum sibiricum;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Anthomyiidae sp. 10;Anthomyiidae sp. 10;yes;1;13;0.5
+5;3;Heracleum sibiricum;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Anthomyiidae sp. 13;Anthomyiidae sp. 13;yes;1;14;0.5
+5;3;Heracleum sibiricum;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Cheilosia pagana;C. pagana;yes;1;17;0.5
+5;3;Heracleum sibiricum;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Chrysotoxum bicinctum;C. bicinctum;yes;1;18;0.5
+5;3;Heracleum sibiricum;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 15;Muscidae sp. 15;yes;1;16;0.5
+5;3;Heracleum sibiricum;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 17;Muscidae sp. 17;yes;1;8;0.5
+5;3;Heracleum sibiricum;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 17;Muscidae sp. 17;yes;1;15;0.5
+5;3;Heracleum sibiricum;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 24;Muscidae sp. 24;yes;1;10;0.5
+5;3;Heracleum sibiricum;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 24;Muscidae sp. 24;yes;1;19;0.5
+5;3;Heracleum sibiricum;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 32;Muscidae sp. 32;yes;1;11;0.5
+5;3;Heracleum sibiricum;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 7;Muscidae sp. 7;yes;1;9;0.5
+5;3;Heracleum sibiricum;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 7;Muscidae sp. 7;yes;1;12;0.5
+5;3;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Aphantopus hyperantus;A. hyperantus;no;6;;1
+5;3;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Empis sp.;Empis sp.;yes;1;20;1
+5;3;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;yes;1;21;1
+5;3;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Heriades truncorum;H. truncorum;yes;1;51;1
+5;3;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 1;Muscidae sp. 1;yes;1;22;1
+5;3;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 5;Muscidae sp. 5;yes;1;25;1
+5;3;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Syritta pipiens;S. pipiens;yes;1;23;1
+5;4;Aegopodium podagraria;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Aphantopus hyperantus;A. hyperantus;no;2;;1
+5;4;Aegopodium podagraria;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;yes;1;55;1
+5;4;Centaurea jacea;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Aphantopus hyperantus;A. hyperantus;no;4;;3
+5;4;Centaurea jacea;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus pascuorum;B. pascuorum;no;1;;3
+5;4;Centaurea jacea;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus pascuorum;B. pascuorum;no;1;;3
+5;4;Centaurea jacea;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus terrestis;B. terrestis;no;1;;3
+5;4;Centaurea jacea;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Brenthis ino;B. ino;no;5;;3
+5;4;Centaurea jacea;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Maniola jurtina;M. jurtina;no;1;;3
+5;4;Centaurea jacea;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Thymelicus lineola;T. lineola;no;6;;3
+5;4;Dactylorhiza fuchsii;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Brenthis ino;B. ino;no;1;;2
+5;4;Heracleum sibiricum;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Pipiza quadrimaculata;P. quadrimaculata;yes;1;24;0.5
+5;4;Hypericum maculatum;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Aphantopus hyperantus;A. hyperantus;no;1;;3
+5;4;Inula salicina;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Aphantopus hyperantus;A. hyperantus;no;7;;4
+5;4;Inula salicina;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus terrestis;B. terrestis;no;1;;4
+5;4;Inula salicina;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Brenthis ino;B. ino;no;2;;4
+5;4;Inula salicina;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Pieris napi;P. napi;no;1;;4
+5;4;Inula salicina;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Sciomyzidae sp.;Sciomyzidae sp.;yes;1;28;4
+5;4;Inula salicina;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Thymelicus lineola;T. lineola;no;2;;4
+5;4;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Aphantopus hyperantus;A. hyperantus;no;1;;5
+5;4;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Celastrina argiolus;C. argiolus;no;1;;5
+5;4;Potentilla erecta;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Aphantopus hyperantus;A. hyperantus;no;1;;0.5
+5;4;Trifolium montanum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus pascuorum;B. pascuorum;no;1;;1
+5;5;Aegopodium podagraria;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Crabro cribrarius;C. cribrarius;yes;1;66;1
+5;5;Aegopodium podagraria;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Macropis fulvipes;M. fulvipes;yes;1;64;1
+5;5;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;no;2;;0.5
+5;5;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;yes;1;27;0.5
+5;5;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Macropis fulvipes;M. fulvipes;yes;1;69;0.5
+5;5;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Pieris rapae;P. rapae;no;1;;0.5
+5;5;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Syritta pipiens;S. pipiens;yes;1;26;0.5
+5;5;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Aphantopus hyperantus;A. hyperantus;no;2;;2
+5;5;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;2;;2
+5;5;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus pascuorum;B. pascuorum;no;2;;2
+5;5;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus soroeensis;B. soroeensis;no;2;;2
+5;5;Stellaria graminea;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Cheilosia pagana;C. pagana;yes;1;72;1
+5;5;Stellaria graminea;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Hylaeus confusus;H. confusus;yes;1;67;1
+5;5;Stellaria graminea;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Macropis fulvipes;M. fulvipes;yes;1;65;1
+5;5;Stellaria graminea;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Sphaerophoria scripta;S. scripta;yes;1;73;1
+5;6;Campanula glomerata;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Pieris napi;P. napi;no;1;;0.5
+5;6;Campanula persicifolia;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus soroeensis;B. soroeensis;no;1;;0.5
+5;6;Dactylorhiza fuchsii;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Anthomyiidae sp. 17;Anthomyiidae sp. 17;yes;1;32;0.5
+5;6;Dactylorhiza fuchsii;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Calliphoridae sp. 2;Calliphoridae sp. 2;yes;1;31;0.5
+5;6;Inula salicina;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Brenthis ino;B. ino;no;1;;3
+5;6;Inula salicina;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Coenonympha glycerion;C. glycerion;no;1;;3
+5;6;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;no;3;;1
+5;6;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Sarcophaga sp. 5;Sarcophaga sp. 5;yes;1;29;1
+5;6;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Syritta pipiens;S. pipiens;yes;1;30;1
+5;6;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;2;;4
+5;6;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus soroeensis;B. soroeensis;no;1;;4
+5;7;Campanula glomerata;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;2;;0.5
+5;7;Campanula glomerata;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus soroeensis;B. soroeensis;no;1;;0.5
+5;7;Inula salicina;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Aphantopus hyperantus;A. hyperantus;no;1;;0.5
+5;7;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Aphantopus hyperantus;A. hyperantus;no;1;;2
+5;7;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Brenthis ino;B. ino;no;1;;2
+5;7;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Dolichopus sp.;Dolichopus sp.;yes;1;57;2
+5;7;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;yes;1;60;2
+5;7;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;yes;1;61;2
+5;7;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 1;Muscidae sp. 1;yes;1;62;2
+5;7;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Syritta pipiens;S. pipiens;no;5;;2
+5;7;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Syritta pipiens;S. pipiens;yes;1;58;2
+5;7;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Syritta pipiens;S. pipiens;yes;1;59;2
+5;7;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Syritta pipiens;S. pipiens;yes;1;63;2
+5;7;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;3
+5;7;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;2;;3
+5;7;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus lucorum;B. lucorum;no;1;;3
+5;7;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus soroeensis;B. soroeensis;no;6;;3
+5;7;Potentilla erecta;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Macropis fulvipes;M. fulvipes;yes;1;80;0.5
+5;8;Aegopodium podagraria;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Aphantopus hyperantus;A. hyperantus;no;1;;1
+5;8;Aegopodium podagraria;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;yes;1;76;1
+5;8;Aegopodium podagraria;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Pollenia sp. 2;Pollenia sp. 2;yes;1;75;1
+5;8;Aegopodium podagraria;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Tenthredo sp.;Tenthredo sp.;yes;1;74;1
+5;8;Centaurea jacea;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Apis mellifera;A. mellifera;no;1;;1
+5;8;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Eristalis tenax;E. tenax;no;1;;6
+5;8;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;yes;1;77;6
+5;8;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Neomyia cornicina;N. cornicina;yes;1;78;6
+5;8;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;7
+5;8;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus soroeensis;B. soroeensis;no;1;;7
+5;8;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus terrestis;B. terrestis;no;1;;7
+5;8;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Pieris napi;P. napi;no;1;;7
+5;9;Aegopodium podagraria;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Tenthredo sp.;Tenthredo sp.;yes;1;68;0.5
+5;9;Campanula persicifolia;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Hylaeus confusus;H. confusus;yes;1;56;1
+5;9;Heracleum sibiricum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Crabro cribrarius;C. cribrarius;yes;1;36;0.5
+5;9;Heracleum sibiricum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Ichneumonidae sp.;Ichneumonidae sp.;yes;1;34;0.5
+5;9;Heracleum sibiricum;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 25;Muscidae sp. 25;yes;1;37;0.5
+5;9;Heracleum sibiricum;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Syritta pipiens;S. pipiens;yes;1;33;0.5
+5;9;Heracleum sibiricum;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Villa hottentotta;V. hottentotta;yes;1;35;0.5
+5;9;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Aphantopus hyperantus;A. hyperantus;no;1;;3
+5;9;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Calliphoridae sp. 1;Calliphoridae sp. 1;yes;1;71;3
+5;9;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Eristalis tenax;E. tenax;yes;1;70;3
+5;9;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;no;1;;3
+5;9;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;no;2;;3
+5;9;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;yes;1;44;3
+5;9;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Ancistrocerus claripennis;A. claripennis;yes;1;38;4
+5;10;Campanula glomerata;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Leptidea sinapsis;L. sinapsis;no;1;;0.5
+5;10;Inula salicina;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Heriades truncorum;H. truncorum;yes;1;79;0.5
+5;10;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Bithia sp. 1;Bithia sp. 1;yes;1;40;1
+5;10;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Helophilus pendulus;H. pendulus;yes;1;39;1
+5;10;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Muscidae sp. 30;Muscidae sp. 30;yes;1;42;1
+5;10;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Syritta pipiens;S. pipiens;yes;1;43;1
+5;10;Leucanthemum vulgare;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Tachinidae sp.;Tachinidae sp.;yes;1;41;1
+5;10;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus lapidarius;B. lapidarius;no;1;;3
+5;10;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Hymenoptera;Bombus soroeensis;B. soroeensis;no;1;;3
+5;10;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Cupido minimus;C. minimus;no;1;;3
+5;10;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Diptera;Syritta pipiens;S. pipiens;no;1;;3
+5;10;Melampyrum nemorosum;05.07.2018;wooded meadow;Matsalu Nationalpark;Lepidoptera;Zygaena filipendula;Z. filipendula;no;1;;3

@@ -1,0 +1,128 @@
+---
+title: "Bipartite - Why order of species matters?"
+author: "Valentin Stefan"
+date: "7/21/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, message=FALSE}
+library(bipartite)
+```
+
+Below is the usual `Safariland` web that comes with the `bipartite` package. The species names come in a particular order. We will see that if we alter that order, we can get differences in some network metrics and this seems unexpected for me. **Why would the order of the species matter and then what is the correct order?**
+
+```{r}
+set.seed(1)
+plotweb(Safariland)
+```
+
+```{r}
+set.seed(1)
+visweb(Safariland)
+```
+
+
+And these are the network metrics that one can compute:
+
+```{r}
+set.seed(1)
+net_1 <- networklevel(web = Safariland)
+```
+
+Now, if we shuffle the insect species names in `Safariland`, we get differences in some network metrics. We do not alter the structure of the network, the abundance information stays unchanged, we just randomly input data in a different order (could be whatever order we typed in the species in the Excel file).
+
+```{r}
+# Shuffle columns to simulate whatever input order from an Excel file
+set.seed(1)
+Safariland_2 <- Safariland[, sample(colnames(Safariland))]
+```
+
+First, we plot the shuffled web to see that the order is changed but not abundance information:
+```{r}
+set.seed(1)
+plotweb(Safariland_2)
+```
+
+```{r}
+set.seed(1)
+visweb(Safariland_2)
+```
+
+Compute again network metrics with the shuffled names:
+
+```{r}
+set.seed(1)
+net_2 <- networklevel(web = Safariland_2)
+
+# The two results are different!
+identical(net_1, net_2)
+```
+
+Not all metrics change, but here are the ones where differences appear:
+```{r}
+net_df <- data.frame(net_1, net_2)
+net_df$dif <- net_df$net_1 - net_df$net_2
+net_df[net_df$dif != 0,]
+```
+
+Also, what if we change the order of the plant names and keep the order of the insects unaltered?
+
+```{r}
+# Shuffle columns
+set.seed(1)
+Safariland_3 <- Safariland[sample(rownames(Safariland)), ]
+
+# Compute network metrics
+set.seed(1)
+net_3 <- networklevel(web = Safariland_3)
+
+# The two results are different again!
+identical(net_1, net_3)
+```
+
+Here are the differences:
+```{r}
+net_df <- data.frame(net_1, net_3)
+net_df$dif <- net_df$net_1 - net_df$net_3
+net_df[net_df$dif != 0,]
+```
+
+Try also to order alphabetically the column names
+
+```{r}
+# Sort
+Safariland_4 <- Safariland[, sort(colnames(Safariland))]
+
+# Compute network metrics
+set.seed(1)
+net_4 <- networklevel(web = Safariland_4)
+
+# The two results are different again!
+identical(net_1, net_4)
+```
+
+The differences:
+```{r}
+net_df <- data.frame(net_1, net_4)
+net_df$dif <- net_df$net_1 - net_df$net_4
+net_df[net_df$dif != 0,]
+```
+
+```{r}
+sessionInfo()
+```
+
+Also for species level
+
+```{r}
+set.seed(1)
+sp_1 <- specieslevel(web = Safariland)
+sp_2 <- specieslevel(web = Safariland_4)
+identical(sp_1, sp_2)
+all.equal(sp_1, sp_2)
+```
+
