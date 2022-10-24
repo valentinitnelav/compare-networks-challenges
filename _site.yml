@@ -1,0 +1,15 @@
+name: "compare-networks-challenges"
+output_dir: "docs"
+navbar:
+  title: "Compare bipartite networks: challenges"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    toc: true
+    toc_float:
+      collapsed: false
