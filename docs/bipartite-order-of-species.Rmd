@@ -25,15 +25,16 @@ set.seed(1)
 visweb(Safariland)
 ```
 
+# Network level metrics
 
-And these are the network metrics that one can compute:
+These are the network metrics that one can compute:
 
 ```{r}
 set.seed(1)
 net_1 <- networklevel(web = Safariland)
 ```
 
-Now, if we shuffle the insect species names in `Safariland`, we get differences in some network metrics. We do not alter the structure of the network, the abundance information stays unchanged, we just randomly input data in a different order (could be whatever order we typed in the species in the Excel file).
+If we shuffle the insect species names in `Safariland`, we get differences in some network metrics. We do not alter the structure of the network, the abundance information stays unchanged, we just randomly input data in a different order (could be whatever order we typed in the species in the Excel file).
 
 ```{r}
 # Shuffle columns to simulate whatever input order from an Excel file
@@ -91,7 +92,7 @@ net_df$dif <- net_df$net_1 - net_df$net_3
 net_df[net_df$dif != 0,]
 ```
 
-Try also to order alphabetically the column names
+Order alphabetically the column names:
 
 ```{r}
 # Sort
@@ -112,11 +113,9 @@ net_df$dif <- net_df$net_1 - net_df$net_4
 net_df[net_df$dif != 0,]
 ```
 
-```{r}
-sessionInfo()
-```
+# Species level metrics
 
-Also for species level
+Same thing can happen also for species level metrics:
 
 ```{r}
 set.seed(1)
@@ -124,5 +123,9 @@ sp_1 <- specieslevel(web = Safariland)
 sp_2 <- specieslevel(web = Safariland_4)
 identical(sp_1, sp_2)
 all.equal(sp_1, sp_2)
+```
+
+```{r}
+sessionInfo()
 ```
 
