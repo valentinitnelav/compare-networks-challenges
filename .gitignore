@@ -1,4 +1,9 @@
+# Files & extension of files
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+
+# Folders
+log-notes
+study-cases

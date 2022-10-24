@@ -1,0 +1,142 @@
+---
+title: "Bootstrap network metrics for comparison tests"
+author: "by [Valentin Stefan](https://github.com/valentinitnelav) - last update `r format(Sys.time(), '%d %B %Y')`"
+---
+
+```{r global-options, include=FALSE}
+knitr::opts_chunk$set(echo=TRUE, warning=FALSE, message=FALSE)
+```
+
+```{r load-packages}
+library(bipartite)
+library(dplyr)
+library(ggplot2)
+```
+
+# Read & prepare data
+```{r}
+dat <- read.csv("./estonia-case/data/interactions_with_plant_cover_2020_08_24.csv", sep = ";")
+```
+
+Is good practice to check for typos in species names
+```{r, eval=FALSE}
+dat$Plant_species %>% unique %>% sort
+dat$Insect_species %>% unique %>% sort
+```
+
+Select only needed columns and expand rows
+```{r}
+df <- dat %>% select(Management_type, Plant_species, Insect_species, Num_Individuals)
+# Repeat each row/interaction as many times as it was observed
+ids <- rep(seq(1, nrow(df)), times = df$Num_Individuals)
+df <- df[ids, ]
+
+# Do the filtering here so that is not repeated in the for loop below
+# unnecessarily N times.
+lbl_1 <- "wooded meadow"
+lbl_2 <- "alvar pasture"
+df_1 <- df %>% filter(Management_type == lbl_1)
+nrow(df_1)
+df_2 <- df %>% filter(Management_type == lbl_2)
+nrow(df_2)
+```
+
+# Visualize adjacency matrices
+
+```{r}
+mat_wm <- table(df_1$Plant_species, df_1$Insect_species)
+visweb(mat_wm)
+plotweb(mat_wm)
+```
+
+```{r}
+mat_ap <- table(df_2$Plant_species, df_2$Insect_species)
+visweb(mat_ap)
+plotweb(mat_ap)
+```
+
+# Bootstrap network level metrics
+
+Generate bootstrap distributions for the network metric.
+```{r}
+# Give network metric to compute (see bipartite::networklevel)
+index <- "interaction evenness"
+
+# Give a number of repetitions
+N <- 100 # WARNING: number of repetitions influences p-value! Better choose 1000
+
+# Prepare two empty vectors that will contain bootstrapped network metrics
+net_1_boot_metrics <- net_2_boot_metrics <- rep(NA, N)
+
+# For each repetition, sample with replacement from all interactions, separately
+# for meadows and alvars, and compute a network metric.
+for (i in 1:N){
+  set.seed(i)
+  net_1_boot_metrics[i] <- 
+    df_1 %>% 
+    slice_sample(prop = 1, replace = TRUE) %>% 
+    select(Plant_species, Insect_species) %>% 
+    table() %>% 
+    bipartite::networklevel(index = index) 
+  
+  set.seed(i)
+  net_2_boot_metrics[i] <- 
+    df_2 %>% 
+    slice_sample(prop = 1, replace = TRUE) %>% 
+    select(Plant_species, Insect_species) %>% 
+    table() %>% 
+    bipartite::networklevel(index = index) 
+}
+```
+
+Compute the observed metrics of the two networks.
+```{r}
+metric_net_1 <- df_1 %>% 
+    select(Plant_species, Insect_species) %>% 
+    table() %>% 
+    bipartite::networklevel(index = index)
+metric_net_1
+
+metric_net_2 <- df_2 %>% 
+    select(Plant_species, Insect_species) %>% 
+    table() %>% 
+    bipartite::networklevel(index = index)
+metric_net_2
+```
+
+Plot the two distributions, their means and the observed metrics.
+```{r}
+observed_metrics <- data.frame(web = c(lbl_1, lbl_2),
+                               obs = c(metric_net_1, metric_net_2))
+observed_metrics
+```
+
+```{r}
+boots_df <- data.frame(web = rep(c(lbl_1, lbl_2), each = N),
+                       boots = c(net_1_boot_metrics, net_2_boot_metrics))
+
+mean_boots <- boots_df %>% 
+  group_by(web) %>% 
+  summarise(mean = mean(boots),
+            median = median(boots))
+mean_boots
+```
+
+A problem here is that the observed metrics do not overlap with their corresponding the bootstrapped mean values.
+```{r}
+ggplot(data = boots_df,
+       aes(x = boots,
+           color = web)) +
+  geom_density() +
+  geom_vline(data = mean_boots,
+             aes(xintercept = mean,
+                 color = web),
+             linetype = "dashed") +
+  geom_vline(data = observed_metrics,
+             aes(xintercept = obs,
+                 color = web),
+             linetype = "solid") +
+  labs(x = index) +
+  theme_bw()
+```
+

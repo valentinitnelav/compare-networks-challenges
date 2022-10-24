@@ -1,0 +1,66 @@
+---
+title: "Bootstrap network metrics for building 95% CI - example for bipartite issue"
+author: "by [Valentin Stefan](https://github.com/valentinitnelav) - last update `r format(Sys.time(), '%d %B %Y')`"
+---
+
+```{r global-options, include=FALSE}
+knitr::opts_chunk$set(echo=TRUE, warning=FALSE, message=FALSE)
+```
+
+```{r load-packages}
+library(bipartite)
+library(dplyr)
+library(tidyr)
+library(tibble)
+```
+
+See also the question that I asked [here](https://stats.stackexchange.com/questions/521831/why-does-not-the-mean-bootstrapped-metric-of-an-ecological-bipartite-network-get).
+
+"I want to add that for example for data(vazcer) web from the bipartite package, one can see how the bootstrapped mean approximates very well the observed metric. But for data(vazarr) and data(Safariland), one observess the behavior described here."
+
+So, make example for data(vazcer) and one for  data(vazarr) to show the differences. In the case of Estonia the differences are even more pronounced, so show that graph as well to make a point?
+
+```{r}
+data(Safariland)
+
+# Helper function to transform a web matrix (network) to an expanded data frame
+# from which we can sample rows. Each row (interaction) is repeated as many times 
+# as it was observed.
+web_matrix_to_df <- function(web){
+  web %>%
+    as.data.frame %>%
+    tibble::rownames_to_column(var = "lower_sp") %>%
+    tidyr::gather(key = "higher_sp", value = "counts", -"lower_sp") %>%
+    dplyr::filter(counts != 0) %>%
+    dplyr::slice(rep(1:n(), times = counts))
+}
+
+safariland_df <- web_matrix_to_df(Safariland)
+
+
+# Generate bootstrap distributions for the network metric
+
+N <- 1000 # Choose a number of repetitions
+
+# Prepare an empty vector to store the bootstrapped web/network metrics
+safariland_boot_values <- rep(NA, N)
+
+# For each repetition, sample with replacement from all interactions, and
+# compute a network metric.
+for (i in 1:N){
+  set.seed(i)
+  safariland_boot_values[i] <- 
+    safariland_df %>% 
+    select(lower_sp, higher_sp) %>% 
+    sample_frac(replace = TRUE) %>% 
+    table() %>% 
+    bipartite::networklevel(index = "NODF") 
+}
+
+hist(safariland_boot_values, main = paste(N, "samples"))
+abline(v = mean(safariland_boot_values), col = "blue", lwd = 2)
+abline(v = bipartite::networklevel(Safariland, index = "NODF"), col = "red", lwd = 2)
+abline(v = quantile(safariland_boot_values, probs = 0.025), col = "blue", lwd = 2, lty = 2)
+abline(v = quantile(safariland_boot_values, probs = 0.975), col = "blue", lwd = 2, lty = 2)
+```
+

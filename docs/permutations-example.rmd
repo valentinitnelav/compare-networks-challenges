@@ -1,0 +1,191 @@
+---
+title: "Permutation test for two network metrics comparison"
+author: "by [Valentin Stefan](https://github.com/valentinitnelav) - last update `r format(Sys.time(), '%d %B %Y')`"
+---
+
+```{r global-options, include=FALSE}
+knitr::opts_chunk$set(echo=TRUE, warning=FALSE, message=FALSE)
+```
+
+```{r load-packages}
+library(bipartite)
+library(dplyr)
+```
+
+# Read & prepare data
+```{r}
+dat <- read.csv("./estonia-case/data/interactions_with_plant_cover_2020_08_24.csv", sep = ";")
+```
+
+Is good practice to check for typos in species names
+```{r, eval=FALSE}
+dat$Plant_species %>% unique %>% sort
+dat$Insect_species %>% unique %>% sort
+```
+
+Select only needed columns and expand rows
+```{r}
+df <- dat %>% select(Management_type, Plant_species, Insect_species, Num_Individuals)
+
+# Repeat each row/interaction as many times as it was observed
+ids <- rep(seq(1, nrow(df)), times = df$Num_Individuals)
+df <- df[ids, ]
+
+head(df)
+```
+
+# Permutations - all interactions from both networks
+```{r}
+# Give network metric to compute (see bipartite::networklevel)
+index <- "H2"
+
+# Give a number of repetitions
+N <- 1000 # WARNING: number of repetitions influences p-value! Better choose 1000
+
+lbl_1 <- "wooded meadow"
+lbl_2 <- "alvar pasture"
+
+# Prepare two empty vectors that will contain permuted network metrics
+net_1_perm_metrics <- net_2_perm_metrics <- rep(NA, N)
+
+for (i in 1:N){
+  set.seed(i)
+  
+  # Create a new column with shuffled network labels
+  df$lbl_shuffled <- sample(df$Management_type, replace = FALSE)
+  
+  # Using the shuffled network labels, re-construct a network 1 (wooded) and compute network metric
+  net_1_perm_metrics[i] <- 
+    df %>% 
+    filter(lbl_shuffled == lbl_1) %>% 
+    select(Plant_species, Insect_species) %>% 
+    table() %>% 
+    bipartite::networklevel(index = index) 
+  
+  # Using the shuffled network labels, re-construct a network 2 (alvar) and compute network metric
+  net_2_perm_metrics[i] <- 
+    df %>% 
+    filter(lbl_shuffled == lbl_2) %>% 
+    select(Plant_species, Insect_species) %>% 
+    table() %>% 
+    bipartite::networklevel(index = index) 
+}
+```
+
+Compute the observed metrics of the two networks and their difference
+```{r}
+metric_net_1 <- df %>% 
+    filter(Management_type == lbl_1) %>% 
+    select(Plant_species, Insect_species) %>% 
+    table() %>% 
+    bipartite::networklevel(index = index)
+metric_net_1
+
+metric_net_2 <- df %>% 
+    filter(Management_type == lbl_2) %>% 
+    select(Plant_species, Insect_species) %>% 
+    table() %>% 
+    bipartite::networklevel(index = index)
+metric_net_2
+
+obs_dif_abs <- abs(metric_net_1 - metric_net_2)
+obs_dif_abs
+```
+
+Plot the distribution of permuted differences and the observed difference (blue line, negative and positive). The red line corresponds to a difference of zero.
+```{r}
+dif <- (net_1_perm_metrics - net_2_perm_metrics)
+
+hist(dif)
+abline(v = 0, col = "red", lwd = 2)
+abline(v = obs_dif_abs, col = "blue", lwd = 2)
+abline(v = -obs_dif_abs, col = "blue", lwd = 2)
+```
+
+Get p-value
+```{r}
+# p-value
+mean(abs(dif) >= obs_dif_abs)
+```
+
+# Permutations - sample bigger netowrk to the size of the samller one
+
+```{r}
+# Here we need to sample wooded meadow with the sample size given by the number
+# of interactions from alvar pasture
+n_inter_1 <- nrow(df %>% filter(Management_type == lbl_1)) # no. interactions for wooded meadow
+n_inter_1
+n_inter_2 <- nrow(df %>% filter(Management_type == lbl_2)) # no. interactions for alvar pasture
+n_inter_2
+spl_size <- min(n_inter_1, n_inter_2)
+
+# Prepare empty vectors that will contain permuted network metrics
+net_1_perm_metrics <- net_2_perm_metrics <- sample_metric <- rep(NA, N)
+
+for (i in 1:N){
+  set.seed(i)
+  
+  df_1 <- df %>% filter(Management_type == lbl_1) %>% slice_sample(n = spl_size) # wooded meadow
+  df_2 <- df %>% filter(Management_type == lbl_2) # alvar pasture
+  df_spl <- bind_rows(df_1, df_2)
+  
+  # Store the network metric of the sampled network
+  sample_metric[i] <- df_1 %>% 
+    select(Plant_species, Insect_species) %>% 
+    table() %>% 
+    bipartite::networklevel(index = index)
+  
+  # Create a new column with shuffled network labels
+  df_spl$lbl_shuffled <- sample(df_spl$Management_type, replace = FALSE)
+  
+  # Using the shuffled network labels, re-construct a network 1 (wooded) and compute network metric
+  net_1_perm_metrics[i] <- 
+    df_spl %>% 
+    filter(lbl_shuffled == lbl_1) %>% 
+    select(Plant_species, Insect_species) %>% 
+    table() %>% 
+    bipartite::networklevel(index = index) 
+  
+  # Using the shuffled network labels, re-construct a network 2 (alvar) and compute network metric
+  net_2_perm_metrics[i] <- 
+    df_spl %>% 
+    filter(lbl_shuffled == lbl_2) %>% 
+    select(Plant_species, Insect_species) %>% 
+    table() %>% 
+    bipartite::networklevel(index = index) 
+}
+```
+
+Compute the observed metrics of the two networks and their difference. This time, for wooded meadow (the bigger network) we must estimate an observed metric as the average of all the sampled networks we took.
+```{r}
+# wooded meadow
+metric_net_1 <- mean(sample_metric)
+metric_net_1
+
+# alvar pasture
+metric_net_2 <- df %>% 
+    filter(Management_type == lbl_2) %>% 
+    select(Plant_species, Insect_species) %>% 
+    table() %>% 
+    bipartite::networklevel(index = index)
+metric_net_2
+
+obs_dif_abs <- abs(metric_net_1 - metric_net_2)
+obs_dif_abs
+```
+
+Plot the distribution of permuted differences and the observed difference (blue line, negative and positive). The red line corresponds to a difference of zero.
+```{r}
+dif <- (net_1_perm_metrics - net_2_perm_metrics)
+
+hist(dif)
+abline(v = 0, col = "red", lwd = 2)
+abline(v = obs_dif_abs, col = "blue", lwd = 2)
+abline(v = -obs_dif_abs, col = "blue", lwd = 2)
+```
+
+Get p-value
+```{r}
+# p-value
+mean(abs(dif) >= obs_dif_abs)
+```
